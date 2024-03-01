@@ -26,6 +26,7 @@ scissors = '''
 '''
 
 #Write your code below this line 👇
+
 import random
 
 human_choice = int(
